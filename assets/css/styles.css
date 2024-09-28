@@ -203,6 +203,7 @@ img {
 
 .home__img{
   width: 250px;
+  min-height: 250px;
   filter: drop-shadow(-8px 8px 16px hsla(34, 51%, 8%, .4));
   margin: 0 auto 2rem;
 }
@@ -277,6 +278,7 @@ img {
 
   .home__img{
     width: 200px;
+    height: 200px;
     margin-bottom: 3rem;
   }
   .home__title{
@@ -366,7 +368,8 @@ img {
     scale: .55;
   }
   .home__img{
-    width: 450px;
+    width: 700px;
+    height: 600px;
     margin-bottom: 5rem;
   }
   .home__product,
